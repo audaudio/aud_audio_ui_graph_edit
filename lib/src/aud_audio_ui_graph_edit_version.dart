@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_audio_ui_graph_edit` package.
-const String audAudioUiGraphEditVersion = '0.0.2';
+const String audAudioUiGraphEditVersion = '0.0.3';
